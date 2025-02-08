@@ -1,0 +1,16 @@
+provider "aws" {
+  region     = "us-west-2"
+  access_key = "Access ID"
+  secret_key = "Secret ID"
+}
+
+resource "aws_instance" "ec2" {
+  ami = "ami-according-to-region"
+  instance_type = t2/micro
+  key_name = "Your_key_Name"
+  subnet_id = "Subnet_ID"
+
+  tags = {
+    Name = "MyEC2Instance"
+  }
+}
