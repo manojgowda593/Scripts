@@ -11,8 +11,6 @@ This repository includes:
 - **🛠️ Terraform Scripts**: For automating infrastructure deployment on cloud platforms.
 - **🐍 Python Scripts**: For automating workflows, simplifying routine tasks, and enhancing productivity.
 
-![Scripts Overview](https://manojresumebucket.s3.ap-south-1.amazonaws.com/Screenshot+(149).png)
-
 ---
 
 ## 📂 **Folder Structure**
