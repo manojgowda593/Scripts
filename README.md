@@ -1,34 +1,55 @@
-📄 Scripts Repository
+# 📄 **Scripts Repository**
 
-Welcome to my repository! 🚀 Here, I'm sharing various scripts that I've been using, including:
+This repository contains the **Terraform and Python scripts** that I've been using to automate infrastructure and simplify tasks.
 
-Terraform Scripts 🛠️
+---
 
-Python Scripts 🐍
+## 🌟 **Project Overview**
 
-These scripts are designed to help with infrastructure automation, cloud resource management, and other DevOps tasks.
+This repository includes:
 
-📂 Folder Structure
+- **🛠️ Terraform Scripts**: For automating infrastructure deployment on cloud platforms.
+- **🐍 Python Scripts**: For automating workflows, simplifying routine tasks, and enhancing productivity.
 
+![Scripts Overview](https://manojresumebucket.s3.ap-south-1.amazonaws.com/Screenshot+(149).png)
+
+---
+
+## 📂 **Folder Structure**
+
+```
 ├── terraform-scripts/
 │   └── [Terraform configuration files]
 ├── python-scripts/
 │   └── [Python automation scripts]
 └── README.md
+```
 
-🔍 About the Scripts
+---
 
-Terraform Scripts: Automate infrastructure deployment on cloud platforms.
+## 🔍 **About the Scripts**
 
-Python Scripts: Simplify routine tasks, automate workflows, and enhance productivity.
+### 🛠️ **Terraform Scripts**
+Automate infrastructure deployment on cloud platforms.
 
-🤝 Contributing
+### 🐍 **Python Scripts**
+Simplify routine tasks, automate workflows, and enhance productivity.
+
+---
+
+## 🤝 **Contributing**
 
 Feel free to contribute, suggest improvements, or report issues. Pull requests are welcome!
 
-📧 Contact
-If you have any feedback, feel free to reach out.
-manoj.gowda1593@gamil.com
+---
 
-Happy scripting! 🎯
+## 📧 **Contact**
+
+For any feedback, feel free to reach out:
+
+**📧 manoj.gowda1593@gmail.com**
+
+---
+
+# 🎯 **Happy Scripting!**
 
