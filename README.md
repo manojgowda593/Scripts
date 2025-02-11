@@ -27,10 +27,8 @@ Python Scripts: Simplify routine tasks, automate workflows, and enhance producti
 Feel free to contribute, suggest improvements, or report issues. Pull requests are welcome!
 
 📧 Contact
-
-If you have any questions or feedback, feel free to reach out.
-
-Note: Make sure to review the scripts before using them in production environments.
+If you have any feedback, feel free to reach out.
+manoj.gowda1593@gamil.com
 
 Happy scripting! 🎯
 
